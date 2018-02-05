@@ -30,9 +30,9 @@ begin
             end case;
         end loop; 
     end if;
-
 end process;
 
+--to check individual pipeline stages
 op1 <= temp1;
 op2 <= temp2;
 op3 <= temp3;

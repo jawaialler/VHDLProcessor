@@ -7,13 +7,13 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dC:/Users/chloe/Documents/Univ/McGill/Winter2018/ECSE 425/P2_pipeline
+dC:/Users/chloe/Documents/Univ/McGill/Winter2018/ECSE 425/P2_pipeline
 Epipeline
-Z1 w1517009583
-Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
-Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
-Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
-R0
+Z0 w1517847933
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/chloe/Documents/Univ/McGill/Winter2018/ECSE 425/VHDLProcessor/P2_pipeline
 Z5 8pipeline.vhd
 Z6 Fpipeline.vhd
 l0
@@ -22,22 +22,22 @@ VkbUGQGff^G7Td=@mdHIzK0
 !s100 _UHN_nPZ?jS:gd2zEO1[M3
 Z7 OV;C;10.5c;63
 32
-Z8 !s110 1517247662
+Z8 !s110 1517849381
 !i10b 1
-Z9 !s108 1517247662.000000
+Z9 !s108 1517849381.000000
 Z10 !s90 -reportprogress|300|pipeline.vhd|
 Z11 !s107 pipeline.vhd|
 !i113 1
 Z12 tExplicit 1 CvgOpt 0
 Abehavioral
+R1
 R2
 R3
-R4
 DEx4 work 8 pipeline 0 22 kbUGQGff^G7Td=@mdHIzK0
 l17
 L12
-VEePMV]aY30e2mF?4n>3Hl1
-!s100 66U=WLFUE5Qc9ZBz6TD]z2
+VGRZQJZ:_F[SdH>9n^Jhic1
+!s100 okL>kK1^@ZZmXghDKeCVZ3
 R7
 32
 R8
@@ -48,11 +48,11 @@ R11
 !i113 1
 R12
 Epipeline_tb
-Z13 w1517009557
+Z13 w1517849366
+R1
 R2
 R3
 R4
-R0
 Z14 8pipeline_tb.vhd
 Z15 Fpipeline_tb.vhd
 l0
@@ -61,28 +61,28 @@ V8D<AY[CJ8I4K<iHQ64C1;3
 !s100 aMLU^Bgi<MG2ZzzV]6?bf3
 R7
 32
-Z16 !s110 1517247663
+R8
 !i10b 1
 R9
-Z17 !s90 -reportprogress|300|pipeline_tb.vhd|
-Z18 !s107 pipeline_tb.vhd|
+Z16 !s90 -reportprogress|300|pipeline_tb.vhd|
+Z17 !s107 pipeline_tb.vhd|
 !i113 1
 R12
 Abehaviour
+R1
 R2
 R3
-R4
-Z19 DEx4 work 11 pipeline_tb 0 22 8D<AY[CJ8I4K<iHQ64C1;3
+Z18 DEx4 work 11 pipeline_tb 0 22 8D<AY[CJ8I4K<iHQ64C1;3
 l24
 L8
-V5?_abD]9oJ@dYzff7]LOf0
-!s100 RRMRbDjHjBg0z<fOejE>40
+V;o:k27P^TWPPDiVH2b@SX2
+!s100 cj1VPV1IQ3E@biZAGSF`R2
 R7
 32
-R16
+R8
 !i10b 1
 R9
+R16
 R17
-R18
 !i113 1
 R12
