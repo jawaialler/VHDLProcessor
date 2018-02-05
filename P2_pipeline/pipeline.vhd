@@ -11,7 +11,9 @@ end pipeline;
 
 architecture behavioral of pipeline is
 
+--loop counter for pipeline
 signal i : integer :=0;
+--to check individual pipeline stages
 signal temp1, temp2, temp3, temp4, temp5 : integer;
 
 begin
@@ -32,7 +34,6 @@ begin
     end if;
 end process;
 
---to check individual pipeline stages
 op1 <= temp1;
 op2 <= temp2;
 op3 <= temp3;

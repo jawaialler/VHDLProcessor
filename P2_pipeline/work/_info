@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/Users/chloe/Documents/Univ/McGill/Winter2018/ECSE 425/P2_pipeline
 Epipeline
-Z0 w1517847933
+Z0 w1517854151
 Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
@@ -22,9 +22,9 @@ VkbUGQGff^G7Td=@mdHIzK0
 !s100 _UHN_nPZ?jS:gd2zEO1[M3
 Z7 OV;C;10.5c;63
 32
-Z8 !s110 1517851540
+Z8 !s110 1517854548
 !i10b 1
-Z9 !s108 1517851540.000000
+Z9 !s108 1517854548.000000
 Z10 !s90 -reportprogress|300|pipeline.vhd|
 Z11 !s107 pipeline.vhd|
 !i113 1
@@ -34,10 +34,10 @@ R1
 R2
 R3
 DEx4 work 8 pipeline 0 22 kbUGQGff^G7Td=@mdHIzK0
-l17
+l19
 L12
-VGRZQJZ:_F[SdH>9n^Jhic1
-!s100 okL>kK1^@ZZmXghDKeCVZ3
+VKkimRS4Z5eU]@3>BR0S1i2
+!s100 zc<9CN<JmA`XCA7R6ohkS1
 R7
 32
 R8
@@ -48,7 +48,7 @@ R11
 !i113 1
 R12
 Epipeline_tb
-Z13 w1517851534
+Z13 w1517854509
 R1
 R2
 R3
@@ -75,11 +75,11 @@ R3
 Z18 DEx4 work 11 pipeline_tb 0 22 8D<AY[CJ8I4K<iHQ64C1;3
 l24
 L8
-VnM9N?]75Wn]jI9HPD?3G80
-!s100 eC7R]g[dQ_69hW7kjcJ5M2
+V0lQ3j6NBML<H81E@B8@742
+!s100 8QU4ZHKoJ5@NTNFMl]ia82
 R7
 32
-!s110 1517851541
+R8
 !i10b 1
 R9
 R16
